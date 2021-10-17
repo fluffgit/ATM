@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
+        //test
         Client client1 = new Client("123", "4353", 1290);
         Client client2 = new Client("124", "4354", 5000);
         Client[] allClients = {client1, client2};
